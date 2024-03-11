@@ -17,7 +17,7 @@
   Desde <strong>tutoriales prácticos</strong> hasta <strong>proyectos desafiantes</strong>, este canal es tu destino para aprender y crecer como desarrollador.
   Cubriremos una amplia gama de temas, incluyendo:
 </p>
-<ul align="center"; style="list-style: none;">>
+<ul align="center"; type="none">
   <li>🔥 Lenguajes de programación: Python, JavaScript, Java, y más.</li>
   <li>🌐 Desarrollo web: HTML, CSS, frameworks como React y Vue.</li>
   <li>📊 Ciencia de datos: Análisis de datos, machine learning, y más.</li>
