@@ -1,6 +1,6 @@
 <h1 align="center">¡Bienvenido a Talus programming!</h1>
 <p align="center">
-  <img src=(https://github.com/straeker18/ppi_pl_ARANGOs/blob/main/Screenshot_2024-03-11_at_12-44-30_DALL_E_2-removebg-preview.png)](https://github.com/straeker18/ppi_pl_ARANGOs/blob/9ca571bf88225980edb576a7813e3f9abb369f26/Screenshot_2024-03-11_at_12-44-30_DALL_E_2-removebg-preview.png) alt="Logo del canal">
+   <img align="center" src="https://user-images.githubusercontent.com/49077085/188248117-f2bdf648-a274-4eff-babb-967f3576d6f8.svg" alt="midudev" height="28px" width="28px" />
 </p>
 <p align="center">¡Hola, soy santiago arango! 🚀</p>
 <p align="center">
