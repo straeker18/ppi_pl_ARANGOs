@@ -4,7 +4,7 @@
    <h3 align="center">¡Hola me llamo santiago arango villa🐈‍👨🏻‍💻</h3>
 </p>
 
-<p align="center">Im an <strong>Student at the Nacional university of colombia</strong> and code enthusiastic 🐈‍⬛.<br />¡you can find me here 👇!</p>
+<p align="center">Soy <strong>Estudiante de la universidad nacional de colombia</strong> y programador entusiasta🐈‍⬛.<br />¡me puedes encontar aqui 👇!</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/santiago-arango-villa-a9297a227/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://user-images.githubusercontent.com/49077085/188248117-f2bdf648-a274-4eff-babb-967f3576d6f8.svg" alt="midudev" height="28px" width="28px" />
