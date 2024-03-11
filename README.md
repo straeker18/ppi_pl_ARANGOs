@@ -1,8 +1,8 @@
-<h1 align="center">¡Bienvenido a [Nombre de tu Canal]!</h1>
+<h1 align="center">¡Bienvenido a Talus programming!</h1>
 <p align="center">
   <img src="https://tu-imagen-logo.com" alt="Logo del canal">
 </p>
-<p align="center">¡Hola, soy [Tu Nombre]! 🚀</p>
+<p align="center">¡Hola, soy santiago arango! 🚀</p>
 <p align="center">
   En este canal, te llevaré a un emocionante viaje a través del mundo de la programación.
   Desde conceptos básicos hasta proyectos avanzados, ¡te ayudaré a dominar el arte del código!
