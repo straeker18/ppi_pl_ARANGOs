@@ -18,7 +18,7 @@
   Cubriremos una amplia gama de temas, incluyendo:
 </p>
 <ul align="center">
-  <h3>🔥 Lenguajes de programación: Python, JavaScript, Java, y más.</h3>
+  <h4>🔥 Lenguajes de programación: Python, JavaScript, Java, y más.</h4>
   <li>🌐 Desarrollo web: HTML, CSS, frameworks como React y Vue.</li>
   <li>📊 Ciencia de datos: Análisis de datos, machine learning, y más.</li>
 </ul>
