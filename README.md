@@ -21,7 +21,6 @@
   <li>🔥 Lenguajes de programación: Python, JavaScript, Java, y más.</li>
   <li>🌐 Desarrollo web: HTML, CSS, frameworks como React y Vue.</li>
   <li>📊 Ciencia de datos: Análisis de datos, machine learning, y más.</li>
-  <li>📱 Desarrollo de aplicaciones móviles: Android, iOS, Flutter, etc.</li>
 </ul>
 <h2 align="center">🎉 Únete a la comunidad 🎉</h2>
 <p align="center">
