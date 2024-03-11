@@ -27,7 +27,7 @@
   Este canal no es solo sobre mí, <strong>es sobre nosotros</strong>.
   Únete a una comunidad de apasionados por la programación donde podrás:
 </p>
-<ul align="center", style="list-style: none;">
+<ul align="center", type="none">
   <li>💬 Hacer preguntas y compartir conocimientos.</li>
   <li>🚀 Colaborar en proyectos emocionantes.</li>
   <li>🌟 Inspirarte y motivarte mutuamente en nuestro viaje de aprendizaje.</li>
