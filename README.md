@@ -1,4 +1,4 @@
-<h1 align="center">¡Bienvenido a Talus programming!</h1>
+<h1 align="center">¡Bienvenido a Talos programming!</h1>
 <p align="center">
    <img align="center" src="Screenshot_2024-03-11_at_12-44-30_DALL_E_2-removebg-preview.png" alt="midudev" height="90px" width="90px" />
 </p>
