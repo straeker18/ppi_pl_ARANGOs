@@ -23,7 +23,7 @@
   <summary>Video 1: Introducción al canal</summary>
   <p align="center">
     <a href="[enlace_del_video_1](https://youtu.be/OOXs0WcK5H8?si=suU4H19lGDkOvaIG)">
-      <img src="miniatura_video_1.jpg" alt="Video 1" width="400px">
+      <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/01318e41df33e6462e3be2616cc375204dea3738/mq3.jpg" alt="Video 1" width="400px">
     </a>
   </p>
   <p align="center">
