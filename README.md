@@ -20,19 +20,22 @@
 <h2 align="center">📹 Videos Recientes 📹</h2>
 
 <details>
-  <summary>Video 1: Introducción a Python</summary>
+  <summary>Video 1: Introducción al canal</summary>
   <p align="center">
-    <a href="enlace_del_video_1">
+    <a href="[enlace_del_video_1](https://youtu.be/OOXs0WcK5H8?si=suU4H19lGDkOvaIG)">
       <img src="miniatura_video_1.jpg" alt="Video 1" width="400px">
     </a>
   </p>
   <p align="center">
-    Descripción del video 1...
+    Hola a todos y bienvenidos a Talos Programming En este emocionante episodio de estreno, les invito a embarcarse en este viaje.
+   En este video introductorio, les daré un vistazo a lo que pueden esperar del canal.
+   ¡Suscríbanse para no perderse ni un solo video y únanse a nuestra comunidad mientras exploramos el mundo!
+   Índice:
   </p>
 </details>
 
 <details>
-  <summary>Video 2: Desarrollo Web con React</summary>
+  <summary>Video 2: Instacion python</summary>
   <p align="center">
     <a href="enlace_del_video_2">
       <img src="miniatura_video_2.jpg" alt="Video 2" width="400px">
