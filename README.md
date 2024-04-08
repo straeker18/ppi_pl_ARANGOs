@@ -17,6 +17,33 @@
   Desde <strong>tutoriales prácticos</strong> hasta <strong>proyectos desafiantes</strong>, este canal es tu destino para aprender y crecer como desarrollador.
   Cubriremos una amplia gama de temas, incluyendo:
 </p>
+<h2 align="center">📹 Videos Recientes 📹</h2>
+
+<details>
+  <summary>Video 1: Introducción a Python</summary>
+  <p align="center">
+    <a href="enlace_del_video_1">
+      <img src="miniatura_video_1.jpg" alt="Video 1" width="400px">
+    </a>
+  </p>
+  <p align="center">
+    Descripción del video 1...
+  </p>
+</details>
+
+<details>
+  <summary>Video 2: Desarrollo Web con React</summary>
+  <p align="center">
+    <a href="enlace_del_video_2">
+      <img src="miniatura_video_2.jpg" alt="Video 2" width="400px">
+    </a>
+  </p>
+  <p align="center">
+    Descripción del video 2...
+  </p>
+</details>
+
+
 <ul align="center"; type="none">
   <li>🔥 Lenguajes de programación: Python, JavaScript, Java, y más.</li>
   <li>🌐 Desarrollo web: HTML, CSS, frameworks como React y Vue.</li>
