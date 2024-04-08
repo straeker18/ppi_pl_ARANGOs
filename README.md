@@ -35,7 +35,7 @@
 </details>
 
 <details>
-  <summary>Video 2: Instacion de Python!!!🐍🐍🐍(linux🐧🐧)</summary>
+  <summary>Video 2: Instalacion de Python!!!🐍🐍🐍(linux🐧🐧)</summary>
   <p align="center">
     <a href="https://youtu.be/g3mGqQ7VAe8">
       <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/d23004eb23de76c55bfc7f3bb5a46f6123703098/linux-30-anos.jpg" alt="Video 2" width="400px">
