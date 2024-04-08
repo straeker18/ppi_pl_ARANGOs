@@ -35,14 +35,15 @@
 </details>
 
 <details>
-  <summary>Video 2: Instacion python</summary>
+  <summary>Video 2: Instacion de Python!!!🐍🐍🐍(linux🐧🐧)</summary>
   <p align="center">
-    <a href="enlace_del_video_2">
-      <img src="miniatura_video_2.jpg" alt="Video 2" width="400px">
+    <a href="https://youtu.be/g3mGqQ7VAe8">
+      <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/d23004eb23de76c55bfc7f3bb5a46f6123703098/linux-30-anos.jpg" alt="Video 2" width="400px">
     </a>
   </p>
   <p align="center">
-    Descripción del video 2...
+    ¡Bienvenidos a mi canal! En este tutorial, te mostraré cómo instalar Python en tu sistema Linux paso a paso. Python es un lenguaje de programación poderoso y versátil que es fundamental para cualquier desarrollador. Si estás utilizando Linux como tu sistema operativo, aprender a instalar Python correctamente es esencial para comenzar a programar.
+linux puede ser a veces engorroso... pero siempre es interesante
   </p>
 </details>
 
