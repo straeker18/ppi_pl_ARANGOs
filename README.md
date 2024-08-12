@@ -148,10 +148,4 @@ Imágenes y videos: Los recursos visuales utilizados en este video han sido obte
    <a href="https://www.youtube.com/@TalosProgramming" target="blank" style='margin-right:4px'>
     <img align="center" src="https://user-images.githubusercontent.com/49077085/188248348-624b06d3-d787-4223-8ca1-85edffe4bf04.svg" alt="midudev" height="38px" width="38px" />
   </a>
-  <a href="https://www.instagram.com/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/49077085/188248313-c2090cae-c409-43ce-8356-5d1f0f13fa53.svg" alt="midu.dev" height="38px" width="38px" />
-  </a>
-  <a href="https://twitter.com/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/49077085/188248390-3181255d-d4fc-4a3a-b1a1-e26a2218333f.svg" alt="midudev" height="28px" width="28px" />
-  </a>
 </p>
