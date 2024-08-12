@@ -47,7 +47,68 @@ linux puede ser a veces engorroso... pero siempre es interesante
   </p>
 </details>
 
+<details>
+  <summary>Video 3: ¿Cuál IDE me conviene?📓👩‍💻📓)</summary>
+  <p align="center">
+    <a href="https://youtu.be/IMxNzuaf9YQ?si=xTo-hCyGVgJC3R8e">
+      <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/86496065de55c864da91d6768cbbbb63d40825e6/video3.png" alt="Video 4" width="400px">
+    </a>
+  </p>
+  <p align="center">
+    ¿No sabes qué IDE elegir para tus proyectos de programación? En este video, comparo tres de las herramientas más populares: PyCharm, Jupyter, y VSCode. Te mostraré las características clave de cada una, sus ventajas y desventajas, y cuál podría ser la mejor opción según tus necesidades y tipo de proyectos.
+  </p>
+</details>
 
+<details>
+  <summary>Video 4: Jupyter notebook, instalcion y otros...</summary>
+  <p align="center">
+    <a href="https://youtu.be/G5IPdM2goVU?si=u_QSVYvTAa4rPei3">
+      <img src="https://raw.githubusercontent.com/straeker18/ppi_pl_ARANGOs/main/video%204.jfif" alt="Video 4" width="400px">
+    </a>
+  </p>
+  <p align="center">
+   En este video, te mostraré cómo empezar a usar Jupyter Notebook, una de las herramientas más poderosas para desarrolladores, científicos de datos y estudiantes. Desde la instalación hasta las funciones avanzadas, cubrimos todo lo que necesitas saber para sacarle el máximo provecho a Jupyter.
+ Recursos mencionados:
+
+Pixabay - Videos y sonidos de uso gratuito.
+  </p>
+</details>
+
+<details>
+  <summary>Video 5: Instalación de PyCharm: Guía para Principiantes</summary>
+  <p align="center">
+    <a href="https://youtu.be/gx-wbFt-ebI?si=dVScKyNKtfD82DDf">
+      <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/86496065de55c864da91d6768cbbbb63d40825e6/DALL%C2%B7E%202024-08-12%2009.01.38%20-%20A%20simpler%20YouTube%20thumbnail%20for%20a%20video%20tutorial%20on%20installing%20PyCharm.%20The%20thumbnail%20features%20a%20clean%20design%20with%20a%20prominent%20PyCharm%20logo%20in%20the%20cen.jpg" alt="Video 5" width="400px">
+    </a>
+  </p>
+  <p align="center">
+   ¡Bienvenido a este tutorial completo sobre cómo instalar PyCharm, el IDE preferido por muchos desarrolladores para programar en Python! En este video, te guiaré a través de cada paso necesario para instalar PyCharm en tu sistema operativo.
+
+
+⚙️ Recursos utilizados:
+
+Imágenes y videos: Los recursos visuales utilizados en este video han sido obtenidos de Pixabay, una plataforma que ofrece imágenes y videos libres de derechos de autor, perfectos para mejorar la calidad de tu contenido.
+🔗 Enlaces útiles:
+  </p>
+</details>
+
+<details>
+  <summary>Video 6: Cómo Instalar y Configurar Visual Studio Code en 2024</summary>
+  <p align="center">
+    <a href="https://youtu.be/LDpKyW2O5vQ">
+      <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/bc77fcccfcfd1975d1186ba735e676784c4053cd/video%206.jpg" alt="Video 6" width="400px">
+    </a>
+  </p>
+  <p align="center">
+   En este video, te mostramos paso a paso cómo descargar, instalar y configurar Visual Studio Code en tu PC. Aprenderás a personalizar el entorno de desarrollo, instalar extensiones esenciales, y optimizar tu experiencia de codificación. Ideal para desarrolladores principiantes.
+
+
+⚙️ Recursos utilizados:
+
+Imágenes y videos: Los recursos visuales utilizados en este video han sido obtenidos de Pixabay, una plataforma que ofrece imágenes y videos libres de derechos de autor, perfectos para mejorar la calidad de tu contenido.
+🔗 Enlaces útiles:
+  </p>
+</details>
 <ul align="center"; type="none">
   <li>🔥 Lenguajes de programación: Python, JavaScript, Java, y más.</li>
   <li>🌐 Desarrollo web: HTML, CSS, frameworks como React y Vue.</li>
@@ -87,10 +148,10 @@ linux puede ser a veces engorroso... pero siempre es interesante
    <a href="https://www.youtube.com/@TalosProgramming" target="blank" style='margin-right:4px'>
     <img align="center" src="https://user-images.githubusercontent.com/49077085/188248348-624b06d3-d787-4223-8ca1-85edffe4bf04.svg" alt="midudev" height="38px" width="38px" />
   </a>
-  <a href="https://www.instagram.com/streaker_a/" target="blank">
+  <a href="https://www.instagram.com/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/49077085/188248313-c2090cae-c409-43ce-8356-5d1f0f13fa53.svg" alt="midu.dev" height="38px" width="38px" />
   </a>
-  <a href="https://twitter.com/santiag52487362" target="blank">
+  <a href="https://twitter.com/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/49077085/188248390-3181255d-d4fc-4a3a-b1a1-e26a2218333f.svg" alt="midudev" height="28px" width="28px" />
   </a>
 </p>
