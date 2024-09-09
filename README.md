@@ -20,7 +20,7 @@
 <h2 align="center">📹 Videos Recientes 📹</h2>
 
 <details>
-  <summary>Video 1: Introducción al canal</summary>
+  <summary><a href="https://youtu.be/OOXs0WcK5H8?si=suU4H19lGDkOvaIG">Video 1: Introducción al canal</a></summary>
   <p align="center">
     <a href="https://youtu.be/OOXs0WcK5H8?si=suU4H19lGDkOvaIG">
       <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/01318e41df33e6462e3be2616cc375204dea3738/mq3.jpg" alt="Video 1" width="400px">
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-  <summary>Video 2: Instalacion de Python!!!🐍🐍🐍(linux🐧🐧)</summary>
+  <summary><a href="https://youtu.be/g3mGqQ7VAe8">Video 2: Instalacion de Python!!!🐍🐍🐍(linux🐧🐧)</a></summary>
   <p align="center">
     <a href="https://youtu.be/g3mGqQ7VAe8">
       <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/d23004eb23de76c55bfc7f3bb5a46f6123703098/linux-30-anos.jpg" alt="Video 2" width="400px">
@@ -48,7 +48,7 @@ linux puede ser a veces engorroso... pero siempre es interesante
 </details>
 
 <details>
-  <summary>Video 3: ¿Cuál IDE me conviene?📓👩‍💻📓)</summary>
+  <summary><a href="https://youtu.be/IMxNzuaf9YQ?si=xTo-hCyGVgJC3R8e">Video 3: ¿Cuál IDE me conviene?📓👩‍💻📓)</a></summary>
   <p align="center">
     <a href="https://youtu.be/IMxNzuaf9YQ?si=xTo-hCyGVgJC3R8e">
       <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/86496065de55c864da91d6768cbbbb63d40825e6/video3.png" alt="Video 4" width="400px">
@@ -60,7 +60,7 @@ linux puede ser a veces engorroso... pero siempre es interesante
 </details>
 
 <details>
-  <summary>Video 4: Jupyter notebook, instalcion y otros...</summary>
+  <summary><a href="https://youtu.be/G5IPdM2goVU?si=u_QSVYvTAa4rPei3">Video 4: Jupyter notebook, instalcion y otros...</a></summary>
   <p align="center">
     <a href="https://youtu.be/G5IPdM2goVU?si=u_QSVYvTAa4rPei3">
       <img src="https://raw.githubusercontent.com/straeker18/ppi_pl_ARANGOs/main/video%204.jfif" alt="Video 4" width="400px">
@@ -75,7 +75,7 @@ Pixabay - Videos y sonidos de uso gratuito.
 </details>
 
 <details>
-  <summary <a href="https://youtu.be/gx-wbFt-ebI?si=dVScKyNKtfD82DDf"">Video 5: Instalación de PyCharm: Guía para Principiantes</summary>
+  <summary> <a href="https://youtu.be/gx-wbFt-ebI?si=dVScKyNKtfD82DDf"">Video 5: Instalación de PyCharm: Guía para Principiantes</a></summary>
   <p align="center">
     <a href="https://youtu.be/gx-wbFt-ebI?si=dVScKyNKtfD82DDf">
       <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/86496065de55c864da91d6768cbbbb63d40825e6/DALL%C2%B7E%202024-08-12%2009.01.38%20-%20A%20simpler%20YouTube%20thumbnail%20for%20a%20video%20tutorial%20on%20installing%20PyCharm.%20The%20thumbnail%20features%20a%20clean%20design%20with%20a%20prominent%20PyCharm%20logo%20in%20the%20cen.jpg" alt="Video 5" width="400px">
@@ -93,7 +93,7 @@ Imágenes y videos: Los recursos visuales utilizados en este video han sido obte
 </details>
 
 <details>
-  <summary>Video 6: Cómo Instalar y Configurar Visual Studio Code en 2024</summary>
+  <summary><a href="https://youtu.be/LDpKyW2O5vQ">Video 6: Cómo Instalar y Configurar Visual Studio Code en 2024</a></summary>
   <p align="center">
     <a href="https://youtu.be/LDpKyW2O5vQ">
       <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/bc77fcccfcfd1975d1186ba735e676784c4053cd/video%206.jpg" alt="Video 6" width="400px">
