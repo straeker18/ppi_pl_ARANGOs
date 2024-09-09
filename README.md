@@ -1,7 +1,7 @@
 <h1 align="center">¡Bienvenido a Talos Programming!</h1>
 
 <p align="center">
-  <img align="center" src="Screenshot_2024-03-11_at_12-44-30_DALL_E_2-removebg-preview.png" alt="Talos Programming Logo" height="90px" width="90px" />
+  <img align="center" src="Screenshot_2024-03-11_at_12-44-30_DALL_E_2-removebg-preview.png" alt="Talos Programming Logo" height="180px" width="180px" />
 </p>
 
 <p align="center">¡Hola, soy Santiago Arango! 🚀</p>
@@ -101,7 +101,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://youtu.be/k7UE8dQBeBA">Video 7: Tipos de datos en PYTHON🖨️🖨️🖨️</a></summary>
   <p align="center">
     <a href="https://youtu.be/k7UE8dQBeBA">
@@ -113,7 +113,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://youtu.be/XVXMPrRupE0">Video 8: Automatización con Python</a></summary>
   <p align="center">
     <a href="https://youtu.be/XVXMPrRupE0">
