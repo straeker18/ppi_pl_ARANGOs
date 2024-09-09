@@ -139,5 +139,14 @@
 </p>
 
 <p align="center">
-  <img align="center" src="newimage.png" alt="Integrating image" width="450px">
+  <img align="center" src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/78ce306eca07652f75ed5ccd72889c18d793dd22/20240225_162433.jpg" alt="Integrating image" width="450px">
+</p>
+<p align="center">Soy <strong>Estudiante de la universidad nacional de colombia</strong> y programador entusiasta🐈‍⬛.<br />¡me puedes encontar aqui 👇!</p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/santiago-arango-villa-a9297a227/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://user-images.githubusercontent.com/49077085/188248117-f2bdf648-a274-4eff-babb-967f3576d6f8.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+   <a href="https://www.youtube.com/@TalosProgramming" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://user-images.githubusercontent.com/49077085/188248348-624b06d3-d787-4223-8ca1-85edffe4bf04.svg" alt="midudev" height="38px" width="38px" />
+  </a>
 </p>
