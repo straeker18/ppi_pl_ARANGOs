@@ -75,7 +75,7 @@ Pixabay - Videos y sonidos de uso gratuito.
 </details>
 
 <details>
-  <summary>Video 5: Instalación de PyCharm: Guía para Principiantes</summary>
+  <summary <a href="https://youtu.be/gx-wbFt-ebI?si=dVScKyNKtfD82DDf"">Video 5: Instalación de PyCharm: Guía para Principiantes</summary>
   <p align="center">
     <a href="https://youtu.be/gx-wbFt-ebI?si=dVScKyNKtfD82DDf">
       <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/86496065de55c864da91d6768cbbbb63d40825e6/DALL%C2%B7E%202024-08-12%2009.01.38%20-%20A%20simpler%20YouTube%20thumbnail%20for%20a%20video%20tutorial%20on%20installing%20PyCharm.%20The%20thumbnail%20features%20a%20clean%20design%20with%20a%20prominent%20PyCharm%20logo%20in%20the%20cen.jpg" alt="Video 5" width="400px">
