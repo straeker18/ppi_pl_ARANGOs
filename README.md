@@ -126,7 +126,7 @@
 </details>
 
 <details open>
-  <summary><a href="https://youtu.be/XVXMPrRupE0">Video 9: Árboles y Nodos en Informática: La Estructura Clave para Organizar Datos</a></summary>
+  <summary><a href="https://www.youtube.com/watch?v=261F8kMVnMs&t=1s">Video 9: Árboles y Nodos en Informática: La Estructura Clave para Organizar Datos</a></summary>
   <p align="center">
     <a href="https://youtu.be/261F8kMVnMs">
       <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/577771689d9527640d80df21339746dfc0423448/arboles%20y%20nodos.png" alt="Video 9" width="400px">
@@ -141,9 +141,9 @@ Ya sea que estés comenzando en la programación o quieras profundizar en temas 
   </p>
 </details>
 <details open>
-  <summary><a href="https://youtu.be/XVXMPrRupE0">Video 10: Programación Orientada a Objetos: Ejercicio Práctico con Clases y Objetos</a></summary>
+  <summary><a href="https://www.youtube.com/watch?v=IWt7qoVMxP0">Video 10: Programación Orientada a Objetos: Ejercicio Práctico con Clases y Objetos</a></summary>
   <p align="center">
-    <a href="https://youtu.be/IWt7qoVMxP0">
+    <a href="https://www.youtube.com/watch?v=IWt7qoVMxP0">
       <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/86f76f67e9f17a92b21deb8dafdff8a432236b91/POO.png" alt="Video 10" width="400px">
     </a>
   </p>
