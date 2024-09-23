@@ -125,6 +125,37 @@
   </p>
 </details>
 
+<details open>
+  <summary><a href="https://youtu.be/XVXMPrRupE0">Video 9: Árboles y Nodos en Informática: La Estructura Clave para Organizar Datos</a></summary>
+  <p align="center">
+    <a href="https://youtu.be/261F8kMVnMs">
+      <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/577771689d9527640d80df21339746dfc0423448/arboles%20y%20nodos.png" alt="Video 9" width="400px">
+    </a>
+  </p>
+  <p align="center">
+    En este video te llevamos a explorar una de las estructuras más importantes en la informática: los árboles y nodos. Aprende cómo funcionan estas estructuras de datos, desde la raíz hasta las hojas, y cómo son esenciales para la organización eficiente de información.
+
+Ya sea que estés comenzando en la programación o quieras profundizar en temas avanzados como los árboles binarios y sus aplicaciones, este video te guiará paso a paso a través de los conceptos fundamentales y ejemplos prácticos. 🌐💻
+
+¿Listo para entender cómo los árboles organizan y mejoran el rendimiento de algoritmos complejos? ¡No te lo pierdas y suscríbete para más contenido de programación!
+  </p>
+</details>
+<details open>
+  <summary><a href="https://youtu.be/XVXMPrRupE0">Video 10: Programación Orientada a Objetos: Ejercicio Práctico con Clases y Objetos</a></summary>
+  <p align="center">
+    <a href="https://youtu.be/IWt7qoVMxP0">
+      <img src="https://github.com/straeker18/ppi_pl_ARANGOs/blob/86f76f67e9f17a92b21deb8dafdff8a432236b91/POO.png" alt="Video 10" width="400px">
+    </a>
+  </p>
+  <p align="center">
+    En este video, resolveremos un ejercicio práctico de Programación Orientada a Objetos (POO). Aprenderás cómo aplicar los conceptos clave de POO como clases, objetos, herencia y encapsulamiento en un proyecto real. ¡Ideal para quienes están empezando a profundizar en POO o necesitan repasar estos conceptos fundamentales!
+
+Este tutorial incluye un paso a paso detallado, ejemplos de código y una explicación clara para ayudarte a entender cómo diseñar y estructurar tus propios programas con POO.
+
+¡No te lo pierdas y aprende cómo mejorar tu forma de programar con POO! 🚀👩‍💻👨‍💻
+  </p>
+</details>
+
 <ul align="center" type="none">
   <li>🔥 Lenguajes de programación: Python, JavaScript, Java y más.</li>
   <li>🌐 Desarrollo web: HTML, CSS, frameworks como React y Vue.</li>
